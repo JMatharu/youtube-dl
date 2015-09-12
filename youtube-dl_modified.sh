@@ -61,6 +61,7 @@ File2=$File2New
 #Delete -threads 0 if you have a Single Core CPU
 echo
 echo "Combining Audio and Video files with FFMpeg"
+# Modified Part by Jagdeep Matharu (Sep 12th 2015)
 ffmpeg -i "$File1" -i "$File2" -q:v 0 -threads 0 "$Out"
 if [[ -f $Out ]]; then
   echo
