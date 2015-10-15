@@ -1,4 +1,4 @@
--qscale 0-qscale 0#!/bin/bash
+#!/bin/bash
 #Youtube-DL DASH Video and Audio merging script
 #Written by QuidsUp
 #Edited by Christoph Korn

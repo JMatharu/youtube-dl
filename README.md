@@ -13,7 +13,7 @@ Made some modifications to script while merging Audio and Video
 
 ##Usage
 1. Go to folder where <code>youtube-dl_modified.sh</code> is located
-2. Run Command <code>bash youtube-dl_modified.sh "Youtube URL"</code> (Without Quotes)
+2. Run Command <code>youtube-dl_modified.sh "Youtube URL"</code> (Without Quotes)
 3. Choose appropriate format code
 4. You should get HD quality Video
 5. And you good to go :)
