@@ -7,9 +7,9 @@ Made some modifications to script while merging Audio and Video
 <!-- Modification was made on <code>-sameq</code> and moved to <code>-q:v 0</code>. -->
 
 ##Installation
-1. Install [youtube-dl](https://rg3.github.io/youtube-dl/download.html) (Should be installed in machine)
+1. Install [youtube-dl](https://rg3.github.io/youtube-dl/download.html) *(Should be installed in machine)*
 2. Install <code>wget</code> 
-3. Install [FFMpeg](https://www.ffmpeg.org/download.html) (Should be added to PATH env.)
+3. Install [FFMpeg](https://www.ffmpeg.org/download.html) *(Should be added to PATH env.)*
 
 ##Usage
 1. Go to folder where <code>youtube-dl_modified.sh</code> is located
